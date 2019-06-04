@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.cpp</file>
+        <file>shared/CheckBox.qml</file>
+        <file>shared/Label.qml</file>
+        <file>shared/images/checkmark.png</file>
+    </qresource>
+</RCC>
